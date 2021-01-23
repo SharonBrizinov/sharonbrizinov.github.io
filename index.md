@@ -6,40 +6,28 @@ layout: default
 
 <img class="profile-picture" src="avatar.png">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Hi! My name is Sharon Brizinov and I am a security researcher focusing mainly on vulnerability research and ICS/SCADA security. My [CVEs](https://sharonbrizinov.com/cves) page contains most of the vulnerabilities I have found. In addition, I participated in Pwn2Own 2020 and hold a [DEFCON black badge](https://www.defcon.org/html/links/dc-black-badge.html) which I won in a CTF competition at DEFCON 27.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Besides security research, I also like to develop mobile applications and games. You can find most of my projects on [GitHub](https://github.com/sharonbrizinov). 
 
-## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+## Projects
 
-## Publications
+Here is a list of most of my projects:
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
+Type | Name  | Description
+------|------|--------
+Security | [Windows Keylogger](https://github.com/SharonBrizinov/SimpleKeylogger) | <img class="profile-picture" src="img/keylogger.png"> Simlpe Windows keylogger using Windows Hooks. Also supports foreign languages
+Security | [s3viwer](https://github.com/SharonBrizinov/s3viewer) | <img class="profile-picture" src="img/s3viewer.jpg"> Free tool for security researchers that lists the content of publicly open storages and helps to identify leaking data.
+Game | [#Yo](http://www.hashtagyo.com/) | <img class="profile-picture" src="img/hashtagyo.jpg"> #Yo is a fun mobile app game and a super-challenging way to enjoy the good old and crazy-fun Simon Says game.
+Game | [Assembly iCopter](https://github.com/SharonBrizinov/iCopter) | <img class="profile-picture" src="img/icopter.jpg"> The old iCopter game written in assembly.
+Misc | [Whatsapp Analyzer](https://github.com/SharonBrizinov/Whatsapp-Analyzer) | <img class="profile-picture" src="img/whatsappanalyzer.jpg"> Native iOS application for analyzing whatsapp conversations freely on your own iOS device. Written in Objective-C.
+Misc | [Meme Generator](https://appadvice.com/game/app/meme-pro-meme-generator-soundpad/488702679) | <img class="profile-picture" src="img/memegenerator.jpg"> Meme generator - create memes from a ready library images with over dozens of different memes, or take photos from your camera or from your saved images.
 
 ---
 
-Here is a blockquote
+## Competitions and presentations
 
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* 2019 - [DEFCON 27 - ICS CTF ](https://www.defcon.org/html/links/dc-black-badge.html)
+* 2019 - [DEFCON 27 - Magical change IP packets in the wild](https://www.youtube.com/watch?v=lggrDCYsVpw&ab_channel=DEFCONConference)
+* 2020 - [Pwn2Own 2020 - ICS Miami](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results)

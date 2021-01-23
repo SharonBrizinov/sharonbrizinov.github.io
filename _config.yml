@@ -1,14 +1,17 @@
-title: Security Researcher
+title: "Sharon Brizinov"
 url: "https://sharonbrizinov.com"
+desc: "I am an Information Security specialist. My interests range from technology to science."
+keywords: "security,researcher,developer,programmer"
+author: "Sharon Brizinov"
 baseurl: ""
 
 markdown: kramdown
 
 tracking_id: #
 
-footer: no
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer: yes
+footer_url: "https://sharonbrizinov.com"
+footer_text: "Sharon Brizinov"
 
 sass:
     style: compressed
