@@ -26,8 +26,11 @@ Misc | [Meme Generator](https://appadvice.com/game/app/meme-pro-meme-generator-s
 
 ---
 
-## Competitions and presentations
+## Writeups, competitions, and presentations
 
-* 2019 - [DEFCON 27 - ICS CTF ](https://www.defcon.org/html/links/dc-black-badge.html)
-* 2019 - [DEFCON 27 - Magical change IP packets in the wild](https://www.youtube.com/watch?v=lggrDCYsVpw&ab_channel=DEFCONConference)
-* 2020 - [Pwn2Own 2020 - ICS Miami](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results)
+* 2019 - [CTF] [S4x19 - ICS CTF](https://s4xevents.com/past-events-2/s4x19/)
+* 2019 - [CTF] [DEFCON 27 - ICS CTF](https://www.defcon.org/html/links/dc-black-badge.html)
+* 2019 - [Presentation] [DEFCON 27 - Magical change IP packets in the wild](https://www.youtube.com/watch?v=lggrDCYsVpw&ab_channel=DEFCONConference)
+* 2020 - [CTF] [Pwn2Own 2020 - ICS Miami](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results)
+* 2020 - [Writeup] [License to Kill: Leveraging license management to attack ICS networks](https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/)
+* 2020 - [Writeup] [Performing SQL backflips to achieve code execution on Schneider Electric’s Ecostruxure software](https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020)
