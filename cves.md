@@ -11,6 +11,8 @@ Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
 2019 | [CVE-2019-13554](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13554) | GE | Mark VIe Controller | IMPROPER AUTHORIZATION (CWE-285)
 2019 | [CVE-2019-13559](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2019-13559) | GE | Mark VIe Controller | USE OF HARD-CODED CREDENTIALS (CWE-798)
+2019 | [CVE-2019-18243](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-01) | GE | HMI/SCADA iFIX | INCORRECT PERMISSION ASSIGNMENT FOR CRITICAL RESOURCE (CWE-732)
+2019 | [CVE-2019-18255](https://us-cert.cisa.gov/ics/advisories/icsa-21-040-01) | GE | HMI/SCADA iFIX | INCORRECT PERMISSION ASSIGNMENT FOR CRITICAL RESOURCE (CWE-732)
 2020 | [CVE-2020-10939](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10939) | Phoenix Contact | PC WORX SRT | 	IMPROPER PRIVILEGE MANAGEMENT (CWE-269)
 2020 | [CVE-2020-6992](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-CVE-2020-6992) | GE | CIMPLICITY | IMPROPER PRIVILEGE MANAGEMENT (CWE-269)
 2020 | [CVE-2020-10641](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10641) | Inductive Automation | Ignition | IMPROPER ACCESS CONTROLS (CWE-284)
