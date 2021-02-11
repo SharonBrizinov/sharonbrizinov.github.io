@@ -44,3 +44,4 @@ Year | CVE | Vendor | Product | Vulnerability Type
 2020 | [CVE-2020-27255](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-27255) | Rockwell Automation | FactoryTalk Linx | HEAP-BASED BUFFER OVERFLOW (CWE-122)
 2020 | [CVE-2020-10291](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10291) | KUKA | Visual Components Network License Server | EXPOSURE OF SENSITIVE INFORMATION TO AN UNAUTHORIZED ACTOR (CWE-200)
 2020 | [CVE-2020-10292](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10292) | KUKA | FactoryTalkVisual Components Network License Server | UNCAUGHT EXCEPTION (CWE-248)
+2021 | [CVE-2021-22665](https://us-cert.cisa.gov/ics/advisories/icsa-21-042-02) | Rockwell Automation | DriveTools SP, Drives AOP | UNCONTROLLED SEARCH PATH ELEMENT (CWE-427)
