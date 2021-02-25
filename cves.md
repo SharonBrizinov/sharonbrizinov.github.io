@@ -45,3 +45,5 @@ Year | CVE | Vendor | Product | Vulnerability Type
 2020 | [CVE-2020-10291](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10291) | KUKA | Visual Components Network License Server | EXPOSURE OF SENSITIVE INFORMATION TO AN UNAUTHORIZED ACTOR (CWE-200)
 2020 | [CVE-2020-10292](https://web.nvd.nist.gov/view/vuln/detail?vulnId=CVE-2020-10292) | KUKA | FactoryTalkVisual Components Network License Server | UNCAUGHT EXCEPTION (CWE-248)
 2021 | [CVE-2021-22665](https://us-cert.cisa.gov/ics/advisories/icsa-21-042-02) | Rockwell Automation | DriveTools SP, Drives AOP | UNCONTROLLED SEARCH PATH ELEMENT (CWE-427)
+2021 | [CVE-2021-22681](https://us-cert.cisa.gov/ics/advisories/icsa-21-056-03) | Rockwell Automation | Studio 5000 Logix Designer, RSLogix 5000, Logix Controllers | INSUFFICIENTLY PROTECTED CREDENTIALS (CWE-522)
+2021 | [CVE-2021-27406](https://us-cert.cisa.gov/ics/advisories/icsa-21-056-01) | PerFact | OpenVPN-Client | EXTERNAL CONTROL OF SYSTEM OR CONFIGURATION SETTING (CWE-15)
