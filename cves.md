@@ -56,3 +56,7 @@ Year | CVE | Vendor | Product | Vulnerability Type
 2021 | [CVE-2021-27468](https://us-cert.cisa.gov/ics/advisories/icsa-21-091-01) | Rockwell Automation | FactoryTalk AssetCentre | SQL INJECTION (CWE-89)
 2021 | [CVE-2021-27464](https://us-cert.cisa.gov/ics/advisories/icsa-21-091-01) | Rockwell Automation | FactoryTalk AssetCentre | SQL INJECTION (CWE-89)
 2021 | [CVE-2021-27460](https://us-cert.cisa.gov/ics/advisories/icsa-21-091-01) | Rockwell Automation | FactoryTalk AssetCentre | DESERIALIZATION OF UNTRUSTED DATA (CWE-502)
+2021 | [CVE-2021-27478](https://us-cert.cisa.gov/ics/advisories/icsa-21-105-02) | EIPStackGroup | OpENer Ethernet/IP Stack | INCORRECT CONVERSION BETWEEN NUMERIC TYPES (CWE-681)
+2021 | [CVE-2021-27482](https://us-cert.cisa.gov/ics/advisories/icsa-21-105-02) | EIPStackGroup | OpENer Ethernet/IP Stack | OUT-OF-BOUNDS READ (CWE-125)
+2021 | [CVE-2021-27500](https://us-cert.cisa.gov/ics/advisories/icsa-21-105-02) | EIPStackGroup | OpENer Ethernet/IP Stack | REACHABLE ASSERTION (CWE-617)
+2021 | [CVE-2021-27498](https://us-cert.cisa.gov/ics/advisories/icsa-21-105-02) | EIPStackGroup | OpENer Ethernet/IP Stack | REACHABLE ASSERTION (CWE-617)
