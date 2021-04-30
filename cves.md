@@ -62,3 +62,4 @@ Year | CVE | Vendor | Product | Vulnerability Type
 2021 | [CVE-2021-27498](https://us-cert.cisa.gov/ics/advisories/icsa-21-105-02) | EIPStackGroup | OpENer Ethernet/IP Stack | REACHABLE ASSERTION (CWE-617)
 2021 | [CVE-2021-22678](https://us-cert.cisa.gov/ics/advisories/icsa-21-112-01) | Horner Automation | Cscape | IMPROPER INPUT VALIDATION (CWE-20)
 2021 | [CVE-2021-22682](https://us-cert.cisa.gov/ics/advisories/icsa-21-112-01) | Horner Automation | Cscape | IMPROPER ACCESS CONTROL (CWE-284)
+2021 | [CVE-2021-22685](https://us-cert.cisa.gov/ics/advisories/icsa-21-119-02) | Cassia Networks | Access Controller | PATH TRAVERSAL (CWE-22)
