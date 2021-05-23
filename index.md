@@ -18,8 +18,8 @@ Besides security research, I also like to develop mobile applications and games.
 * 2019 - [Presentation] [DEFCON 27 - Magical change IP packets in the wild](https://www.youtube.com/watch?v=lggrDCYsVpw&ab_channel=DEFCONConference)
 * 2020 - [CTF] [Pwn2Own 2020 - ICS Miami](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results)
 * 2020 - [Writeup] [License to Kill: Leveraging license management to attack ICS networks](https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/)
-* 2020 - [Writeup] [Performing SQL backflips to achieve code execution on Schneider Electric’s Ecostruxure software](https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020)
-* 2021 - [Presentation] [Hack the Capitol v4.0 - Attacking Your OT Network](https://www.youtube.com/watch?v=ZtMO-F7zraI)
+* 2020 - [Writeup] [ZDI - Performing SQL backflips to achieve code execution on Schneider Electric’s Ecostruxure software](https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020)
+* 2021 - [Presentation] [Hack the Capitol - Attacking Your OT Network](https://www.youtube.com/watch?v=ZtMO-F7zraI)
 
 ---
 

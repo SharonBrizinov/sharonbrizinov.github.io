@@ -73,3 +73,4 @@ Year | CVE | Vendor | Product | Vulnerability Type
 2021 | [CVE-2021-22738](https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-130-04) | Schneider Electric | homeLYnk | Use of a Broken or Risky Cryptographic Algorithm vulnerability (CWE-327)
 2021 | [CVE-2021-22739](https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-130-04) | Schneider Electric | homeLYnk | Information Exposure vulnerability (CWE-200)
 2021 | [CVE-2021-22740](https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-130-04) | Schneider Electric | homeLYnk | Information Exposure vulnerability (CWE-200)
+2021 | [CVE-2021-33056](https://nvd.nist.gov/vuln/detail/CVE-2021-33056) | Belledonne Communications | belle-sip | NULL Pointer Dereference (CWE-476)
