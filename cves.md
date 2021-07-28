@@ -74,3 +74,8 @@ Year | CVE | Vendor | Product | Vulnerability Type
 2021 | [CVE-2021-22739](https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-130-04) | Schneider Electric | homeLYnk | Information Exposure vulnerability (CWE-200)
 2021 | [CVE-2021-22740](https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2021-130-04) | Schneider Electric | homeLYnk | Information Exposure vulnerability (CWE-200)
 2021 | [CVE-2021-33056](https://nvd.nist.gov/vuln/detail/CVE-2021-33056) | Belledonne Communications | belle-sip | NULL Pointer Dereference (CWE-476)
+2021 | [CVE-2021-33008](https://us-cert.cisa.gov/ics/advisories/icsa-21-180-05) | AVEVA | System Platform | MISSING AUTHENTICATION FOR CRITICAL FUNCTION (CWE-306)
+2021 | [CVE-2021-33010](https://us-cert.cisa.gov/ics/advisories/icsa-21-180-05) | AVEVA | System Platform | UNCAUGHT EXCEPTION (CWE-248)
+2021 | [CVE-2021-32981](https://us-cert.cisa.gov/ics/advisories/icsa-21-180-05) | AVEVA | System Platform | PATH TRAVERSAL (CWE-22)
+2021 | [CVE-2021-32985](https://us-cert.cisa.gov/ics/advisories/icsa-21-180-05) | AVEVA | System Platform | ORIGIN VALIDATION ERROR (CWE-346)
+2021 | [CVE-2021-32977](https://us-cert.cisa.gov/ics/advisories/icsa-21-180-05) | AVEVA | System Platform | IMPROPER VERIFICATION OF CRYPTOGRAPHIC SIGNATURE (CWE-347)
