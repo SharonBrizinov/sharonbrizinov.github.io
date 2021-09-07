@@ -21,7 +21,8 @@ Besides security research, I also like to develop mobile applications and games.
 * 2020 - [Writeup] [ZDI - Performing SQL backflips to achieve code execution on Schneider Electric’s Ecostruxure software](https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020)
 * 2021 - [Presentation] [Hack the Capitol - Attacking Your OT Network](https://www.youtube.com/watch?v=ZtMO-F7zraI)
 * 2021 - [Presentation] [DEFCON 29 - Bottom-Up and Top-Down: Exploiting Vulnerabilities In the OT Cloud Era](https://www.youtube.com/watch?v=l3rs1GwOVSU)
-* 2021 - [Writeup] [Crashing SIP Clients With a Single Slash](https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash/)
+* 2021 - [Writeup] [Blog - Crashing SIP Clients With a Single Slash](https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash)
+
 ---
 
 ## Projects
