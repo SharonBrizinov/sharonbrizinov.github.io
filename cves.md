@@ -9,6 +9,12 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2021 | [CVE-2021-37177](https://us-cert.cisa.gov/ics/advisories/icsa-21-257-19) | Siemens | SINEMA Remote Connect Server | MODIFICATION OF ASSUMED-IMMUTABLE DATA (CWE-471)
+2021 | [CVE-2021-37183](https://us-cert.cisa.gov/ics/advisories/icsa-21-257-19) | Siemens | SINEMA Remote Connect Server | IMPROPER ACCESS CONTROL (CWE-284)
+2021 | [CVE-2021-37190](https://us-cert.cisa.gov/ics/advisories/icsa-21-257-19) | Siemens | SINEMA Remote Connect Server | EXPOSURE OF SENSITIVE INFORMATION TO AN UNAUTHORIZED ACTOR (CWE-200)
+2021 | [CVE-2021-37191](https://us-cert.cisa.gov/ics/advisories/icsa-21-257-19) | Siemens | SINEMA Remote Connect Server | IMPROPER CONTROL OF INTERACTION FREQUENCY (CWE-799)
+2021 | [CVE-2021-37192](https://us-cert.cisa.gov/ics/advisories/icsa-21-257-19) | Siemens | SINEMA Remote Connect Server | EXPOSURE OF SENSITIVE INFORMATION TO AN UNAUTHORIZED ACTOR (CWE-200)
+2021 | [CVE-2021-37193](https://us-cert.cisa.gov/ics/advisories/icsa-21-257-19) | Siemens | SINEMA Remote Connect Server | MODIFICATION OF ASSUMED-IMMUTABLE DATA (CWE-471)
 2021 | [CVE-2021-33025](https://us-cert.cisa.gov/ics/advisories/icsa-21-229-03) | xArrow | xArrow SCADA | IMPROPER INPUT VALIDATION (CWE-22)
 2021 | [CVE-2021-32959](https://us-cert.cisa.gov/ics/advisories/icsa-21-231-01) | AVEVA | SuiteLink Server | HEAP-BASED BUFFER OVERFLOW (CWE-122)
 2021 | [CVE-2021-32963](https://us-cert.cisa.gov/ics/advisories/icsa-21-231-01) | AVEVA | SuiteLink Server | NULL POINTER DEREFERENCE (CWE-476)
