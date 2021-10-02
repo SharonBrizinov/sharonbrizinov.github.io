@@ -19,6 +19,7 @@ Besides security research, I also like to develop mobile applications and games.
 * 2020 - [CTF] [Pwn2Own 2020 - ICS Miami](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results)
 * 2020 - [Writeup] [License to Kill: Leveraging license management to attack ICS networks](https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/)
 * 2020 - [Writeup] [ZDI - Performing SQL backflips to achieve code execution on Schneider Electric’s Ecostruxure software](https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020)
+* 2020 - [Writeup] [EXPLORING THE OPC ATTACK SURFACE](https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf)
 * 2021 - [Presentation] [Hack the Capitol - Attacking Your OT Network](https://www.youtube.com/watch?v=ZtMO-F7zraI)
 * 2021 - [Presentation] [DEFCON 29 - Bottom-Up and Top-Down: Exploiting Vulnerabilities In the OT Cloud Era](https://www.youtube.com/watch?v=l3rs1GwOVSU)
 * 2021 - [Writeup] [Blog - Crashing SIP Clients With a Single Slash](https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash)
