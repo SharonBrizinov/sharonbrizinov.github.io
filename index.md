@@ -13,16 +13,18 @@ Besides security research, I also like to develop mobile applications and games.
 
 ## Writeups, competitions, and presentations
 
-* 2019 - [CTF] [S4x19 - ICS CTF](https://s4xevents.com/past-events-2/s4x19/)
-* 2019 - [CTF] [DEFCON 27 - ICS CTF](https://www.defcon.org/html/links/dc-black-badge.html)
-* 2019 - [Presentation] [DEFCON 27 - Magical Change-IP Packets In the Wild](https://www.youtube.com/watch?v=lggrDCYsVpw&ab_channel=DEFCONConference)
-* 2020 - [CTF] [Pwn2Own 2020 - ICS Miami](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results)
-* 2020 - [Writeup] [License to Kill: Leveraging license management to attack ICS networks](https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/)
-* 2020 - [Writeup] [ZDI - Performing SQL backflips to achieve code execution on Schneider Electric’s Ecostruxure software](https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020)
-* 2020 - [Writeup] [EXPLORING THE OPC ATTACK SURFACE](https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf)
-* 2021 - [Presentation] [Hack the Capitol - Attacking Your OT Network](https://www.youtube.com/watch?v=ZtMO-F7zraI)
-* 2021 - [Presentation] [DEFCON 29 - Bottom-Up and Top-Down: Exploiting Vulnerabilities In the OT Cloud Era](https://www.youtube.com/watch?v=l3rs1GwOVSU)
-* 2021 - [Writeup] [Blog - Crashing SIP Clients With a Single Slash](https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash)
+* 2019 - [CTF / Competition] [S4x19 - ICS CTF](https://s4xevents.com/past-events-2/s4x19/)
+* 2019 - [CTF / Competition] [DEFCON 27 - ICS CTF](https://www.defcon.org/html/links/dc-black-badge.html)
+* 2019 - [Presentation / Talk] [DEFCON 27 - Magical Change-IP Packets In the Wild](https://www.youtube.com/watch?v=lggrDCYsVpw&ab_channel=DEFCONConference)
+* 2020 - [CTF / Competition] [Pwn2Own 2020 - ICS Miami](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results)
+* 2020 - [Research / Writeup] [License to Kill: Leveraging license management to attack ICS networks](https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/)
+* 2020 - [Research / Writeup] [ZDI - Performing SQL backflips to achieve code execution on Schneider Electric’s Ecostruxure software](https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020)
+* 2020 - [Research / Writeup] [Exploring The OPC Attack Surface](https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf)
+* 2021 - [Presentation / Talk] [Hack the Capitol - Attacking Your OT Network](https://www.youtube.com/watch?v=ZtMO-F7zraI)
+* 2021 - [Presentation / Talk] [DEFCON 29 - Bottom-Up and Top-Down: Exploiting Vulnerabilities In the OT Cloud Era](https://www.youtube.com/watch?v=l3rs1GwOVSU)
+* 2021 - [Research / Writeup] [Finding Bugs in a Popular EtherNet/IP Protocol Stack](https://claroty.com/2021/04/15/blog-research-fuzzing-and-pring/)
+* 2021 - [Research / Writeup] [Crashing SIP Clients With a Single Slash](https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash)
+* 2021 - [Research / Writeup] [Unboxing BusyBox: 14 Vulnerabilities Uncovered](https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/)
 
 ---
 
