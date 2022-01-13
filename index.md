@@ -14,21 +14,21 @@ Besides security research, I also like to develop mobile applications and games.
 
 ## Writeups, competitions, and presentations
 
-* 2019 - [Competition]	[S4x19 - ICS CTF](https://s4xevents.com/past-events-2/s4x19/)
-* 2019 - [Competition]	[DEFCON 27 - ICS CTF](https://www.defcon.org/html/links/dc-black-badge.html)
-* 2019 - [Presentation]	[DEFCON 27 - Magical Change-IP Packets In the Wild](https://www.youtube.com/watch?v=lggrDCYsVpw&ab_channel=DEFCONConference)
-* 2020 - [Competition]	[Pwn2Own 2020 - ICS Miami](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results)
-* 2020 - [White Paper]	[Exploiting WIBU CodeMeter to attack ICS networks](https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/)
-* 2020 - [Writeup]		[ZDI - RCE on Schneider Electric Ecostruxure software](https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020)
-* 2020 - [White Paper]	[Exploring The OPC Attack Surface](https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf)
-* 2021 - [Presentation]	[Hack the Capitol - Attacking Your OT Network](https://www.youtube.com/watch?v=ZtMO-F7zraI)
-* 2021 - [Presentation]	[DEFCON 29 - Exploiting Vulnerabilities In the OT Cloud Era](https://www.youtube.com/watch?v=l3rs1GwOVSU)
-* 2021 - [Writeup]		[Finding Bugs in a Popular EtherNet/IP Protocol Stack](https://claroty.com/2021/04/15/blog-research-fuzzing-and-pring/)
-* 2021 - [Writeup]		[Crashing SIP Clients With a Single Slash](https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash)
-* 2021 - [Writeup]		[Unboxing BusyBox: 14 Vulnerabilities Uncovered](https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/)
-* 2021 - [Writeup]		[Pwning Industrial Remote Access Clients](https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/)
-* 2021 - [Presentation]	[HITCON 2021 - Pwning cloud-based intercom systems](https://www.youtube.com/watch?v=5cLB92gqoWA)
-* 2022 - [White Paper]	[Exploiting URL Parsers](https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf)
+* 2019 - [Competition]  [S4x19 - ICS CTF](https://s4xevents.com/past-events-2/s4x19/)
+* 2019 - [Competition]  [DEFCON 27 - ICS CTF](https://www.defcon.org/html/links/dc-black-badge.html)
+* 2019 - [Presentation] [DEFCON 27 - Magical Change-IP Packets In the Wild](https://www.youtube.com/watch?v=lggrDCYsVpw&ab_channel=DEFCONConference)
+* 2020 - [Competition]  [Pwn2Own 2020 - ICS Miami](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results)
+* 2020 - [White Paper]  [Exploiting WIBU CodeMeter to attack ICS networks](https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/)
+* 2020 - [Writeup]      [ZDI - RCE on Schneider Electric Ecostruxure software](https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020)
+* 2020 - [White Paper]  [Exploring The OPC Attack Surface](https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf)
+* 2021 - [Presentation] [Hack the Capitol - Attacking Your OT Network](https://www.youtube.com/watch?v=ZtMO-F7zraI)
+* 2021 - [Presentation] [DEFCON 29 - Exploiting Vulnerabilities In the OT Cloud Era](https://www.youtube.com/watch?v=l3rs1GwOVSU)
+* 2021 - [Writeup]      [Finding Bugs in a Popular EtherNet/IP Protocol Stack](https://claroty.com/2021/04/15/blog-research-fuzzing-and-pring/)
+* 2021 - [Writeup]      [Crashing SIP Clients With a Single Slash](https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash)
+* 2021 - [Writeup]      [Unboxing BusyBox: 14 Vulnerabilities Uncovered](https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/)
+* 2021 - [Writeup]      [Pwning Industrial Remote Access Clients](https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/)
+* 2021 - [Presentation] [HITCON 2021 - Pwning cloud-based intercom systems](https://www.youtube.com/watch?v=5cLB92gqoWA)
+* 2022 - [White Paper]  [Exploiting URL Parsers](https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf)
 
 ---
 
