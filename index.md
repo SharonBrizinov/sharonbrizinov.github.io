@@ -6,8 +6,9 @@ layout: default
 
 <img class="profile-picture" src="avatar.png">
 
-Hi! My name is Sharon Brizinov and I’m a security researcher. I specialize with vulnerability research and ICS/SCADA security. You can check most of the vulnerabilities I have found [here](https://sharonbrizinov.com/cves).
-In addition, I’m a practitioner of CTFs, took part of Pwn2Own 2020 and won the DEFCON 27’s ICS CTF and earned a [DEFCON black badge](https://www.defcon.org/html/links/dc-black-badge.html).
+Hello! I'm Sharon Brizinov, a security researcher. I specialize in vulnerability research and ICS/SCADA security. Most of the vulnerabilities I have found can be found [here](https://sharonbrizinov.com/cves).
+In addition, I've participated in [Pwn2Own 2020](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results) and won DEFCON 27's ICS CTF, earning a [DEFCON black badge](https://www.defcon.org/html/links/dc-black-badge.html).
+
 
 Besides security research, I also like to develop mobile applications and games. You can find most of my projects on [GitHub](https://github.com/sharonbrizinov). 
 
@@ -26,6 +27,7 @@ Besides security research, I also like to develop mobile applications and games.
 * 2021 - [Research / Writeup] [Crashing SIP Clients With a Single Slash](https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash)
 * 2021 - [Research / Writeup] [Unboxing BusyBox: 14 Vulnerabilities Uncovered](https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/)
 * 2021 - [Research / Writeup] [All Roads Lead to OpenVPN: Pwning Industrial Remote Access Clients](https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/)
+* 2021 - [Presentation / Talk] [HITCON 2021 - Pwning cloud-based intercom systems](https://www.youtube.com/watch?v=5cLB92gqoWA)
 * 2022 - [Research Paper] [Exploiting URL Parsers](https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf)
 
 ---
