@@ -27,7 +27,7 @@ Besides security research, I also like to develop mobile applications and games.
 * 2021 - [Writeup]      [Crashing SIP Clients With a Single Slash](https://claroty.com/2021/08/31/blog-research-crashing-sip-clients-with-a-single-slash)
 * 2021 - [Writeup]      [Unboxing BusyBox: 14 Vulnerabilities Uncovered](https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/)
 * 2021 - [Writeup]      [Pwning Industrial Remote Access Clients](https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/)
-* 2021 - [Presentation] [HITCON 2021 - Pwning cloud-based intercom systems](https://www.youtube.com/watch?v=5cLB92gqoWA)
+* 2021 - [Presentation] [HITCON 2021 - The Curious Case of Weird Phone Calls](https://www.youtube.com/watch?v=5cLB92gqoWA)
 * 2022 - [White Paper]  [Exploiting URL Parsers](https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf)
 
 ---
