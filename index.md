@@ -36,6 +36,7 @@ Besides security research, I also like to develop mobile applications and games.
 
 Type | Name  | Description
 ------|------|--------
+Security | [EtherNet/IP & CIP Stack Detector](https://github.com/claroty/enip-stack-detector) | <img class="profile-picture" src="img/etherip_detector.png"> EtherNet/IP & CIP Stack Detector that can help both cyber-security researchers, OT engineers, and asset owners to identify devices that are running a specific EtherNet/IP protocol stack.
 Security | [s3viewer](https://github.com/SharonBrizinov/s3viewer) | <img class="profile-picture" src="img/s3viewer.jpg"> Free tool for security researchers that lists the content of publicly open storages and helps to identify leaking data.
 Security | [Windows Keylogger](https://github.com/SharonBrizinov/SimpleKeylogger) | <img class="profile-picture" src="img/keylogger.png"> Simple Windows keylogger using Windows Hooks. Also supports foreign languages
 Game | [#Yo](http://www.hashtagyo.com/) | <img class="profile-picture" src="img/hashtagyo.jpg"> #Yo is a fun mobile app game and a super-challenging way to enjoy the good old and crazy-fun Simon Says game.

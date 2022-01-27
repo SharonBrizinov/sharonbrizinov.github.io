@@ -9,6 +9,8 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2022 | [CVE-2021-44477](https://www.cisa.gov/uscert/ics/advisories/icsa-22-025-01) | GE | ToolBoxST | IMPROPER RESTRICTION OF XML EXTERNAL ENTITY REFERENCE (CWE-611)
+2022 | [CVE-2018-16202](https://www.cisa.gov/uscert/ics/advisories/icsa-22-025-01) | GE | ToolBoxST | PATH TRAVERSAL (CWE-22)
 2021 | [CVE-2021-26264](https://www.cisa.gov/uscert/ics/advisories/icsa-21-355-04) | Emerson | DeltaV | MISSING AUTHENTICATION FOR CRITICAL FUNCTION (CWE-306)
 2021 | [CVE-2021-44463](https://www.cisa.gov/uscert/ics/advisories/icsa-21-355-04) | Emerson | DeltaV | UNCONTROLLED SEARCH PATH ELEMENT (CWE-427)
 2021 | [CVE-2021-42373](https://claroty.com/2021/11/09/blog-research-unboxing-busybox-14-vulnerabilities-uncovered-by-claroty-jfrog/) | BusyBox | BusyBox | IMPROPER INPUT VALIDATION (CWE-22)
