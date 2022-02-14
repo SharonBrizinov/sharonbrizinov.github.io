@@ -9,6 +9,12 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2022 | [CVE-2021-4190](https://www.wireshark.org/security/wnpa-sec-2021-22.html) | Wireshark | Wireshark | IMPROPER INPUT VALIDATION (CWE-20)
+2022 | [CVE-2022-0586](https://www.wireshark.org/security/wnpa-sec-2022-01.html) | Wireshark | Wireshark | IMPROPER INPUT VALIDATION (CWE-20)
+2022 | [CVE-2022-0585](https://www.wireshark.org/security/wnpa-sec-2022-02.html) | Wireshark | Wireshark | IMPROPER INPUT VALIDATION (CWE-20)
+2022 | [CVE-2022-0583](https://www.wireshark.org/security/wnpa-sec-2022-03.html) | Wireshark | Wireshark | IMPROPER INPUT VALIDATION (CWE-20)
+2022 | [CVE-2022-0582](https://www.wireshark.org/security/wnpa-sec-2022-04.html) | Wireshark | Wireshark | IMPROPER INPUT VALIDATION (CWE-20)
+2022 | [CVE-2021-22817](https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2022-039-06) | Schneider Electric | Vijeo Designer | INCORRECT DEFAULT PERMISSIONS (CWE-276)
 2022 | [CVE-2021-44477](https://www.cisa.gov/uscert/ics/advisories/icsa-22-025-01) | GE | ToolBoxST | IMPROPER RESTRICTION OF XML EXTERNAL ENTITY REFERENCE (CWE-611)
 2022 | [CVE-2018-16202](https://www.cisa.gov/uscert/ics/advisories/icsa-22-025-01) | GE | ToolBoxST | PATH TRAVERSAL (CWE-22)
 2021 | [CVE-2021-26264](https://www.cisa.gov/uscert/ics/advisories/icsa-21-355-04) | Emerson | DeltaV | MISSING AUTHENTICATION FOR CRITICAL FUNCTION (CWE-306)
