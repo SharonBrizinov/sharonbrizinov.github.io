@@ -9,6 +9,7 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2022 | [CVE-2021-3422](https://www.splunk.com/en_us/product-security/announcements/svd-2022-0301.html) | Splunk | Splunk Enterprise | IMPROPER INPUT VALIDATION (CWE-20)
 2022 | [CVE-2021-4190](https://www.wireshark.org/security/wnpa-sec-2021-22.html) | Wireshark | Wireshark | IMPROPER INPUT VALIDATION (CWE-20)
 2022 | [CVE-2022-0586](https://www.wireshark.org/security/wnpa-sec-2022-01.html) | Wireshark | Wireshark | IMPROPER INPUT VALIDATION (CWE-20)
 2022 | [CVE-2022-0585](https://www.wireshark.org/security/wnpa-sec-2022-02.html) | Wireshark | Wireshark | IMPROPER INPUT VALIDATION (CWE-20)
