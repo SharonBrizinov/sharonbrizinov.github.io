@@ -29,7 +29,8 @@ Besides security research, I also like to develop mobile applications and games.
 * 2021 - [Writeup]      [Pwning Industrial Remote Access Clients](https://claroty.com/2021/11/19/blog-research-all-roads-lead-to-openvpn-pwning-industrial-remote-access-clients/)
 * 2021 - [Presentation] [HackInParis 2021 - Pwning Industrial Remote Access Clients](https://www.youtube.com/watch?v=rNHshToPt2Y&ab_channel=HackinParis)
 * 2022 - [White Paper]  [Exploiting URL Parsers](https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf)
-* 2022 - [Presentation] [BlueHat IL 2021 - Pwn'ing Cloud-Based Intercoms at Scale](https://www.youtube.com/watch?v=YTxABU_L2Ok)
+* 2022 - [Writeup] 		[Hiding Code on Rockwell Automation PLCs](https://claroty.com/2022/03/31/blog-research-hiding-code-on-rockwell-automation-plcs/)
+* 2022 - [Presentation] [BlueHat IL 2022 - Pwn'ing Cloud-Based Intercoms at Scale](https://www.youtube.com/watch?v=YTxABU_L2Ok)
 * 2022 - [Presentation] [S4x22 2022 - The Race to Native Code Execution in Siemens PLCs](https://www.youtube.com/watch?v=r-dmxU1gEl0)
 
 ---
