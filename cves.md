@@ -9,6 +9,13 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2022 | [CVE-2021-43933](https://www.cisa.gov/uscert/ics/advisories/icsa-22-109-03) | FANUC Robotics | ROBOGUIDE | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2021-43990](https://www.cisa.gov/uscert/ics/advisories/icsa-22-109-03) | FANUC Robotics | ROBOGUIDE | IMPROPER RESTRICTION OF XML EXTERNAL ENTITY REFERENCE (CWE-611)
+2022 | [CVE-2021-43988](https://www.cisa.gov/uscert/ics/advisories/icsa-22-109-03) | FANUC Robotics | ROBOGUIDE | IMPROPER PATH TRAVERSAL CWE 22
+2022 | [CVE-2021-43986](https://www.cisa.gov/uscert/ics/advisories/icsa-22-109-03) | FANUC Robotics | ROBOGUIDE | IMPROPER ACCESS CONTROL CWE-284
+2022 | [CVE-2021-38483](https://www.cisa.gov/uscert/ics/advisories/icsa-22-109-03) | FANUC Robotics | ROBOGUIDE | INCORRECT PERMISSION ASSIGNMENT FOR CRITICAL RESOURCE (CWE-732)
+2022 | [CVE-2022-1161](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1134276) | Rockwell Automation | Logix Controllers (PLCs) | INCLUSION OF FUNCTIONALITY FROM UNTRUSTED CONTROL SPHERE (CWE-829)
+2022 | [CVE-2022-1159](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/1134329) | Rockwell Automation | Automation	Studio 5000 | IMPROPER CONTROL OF GENERATION OF CODE (CWE-94)
 2022 | [CVE-2021-3422](https://www.splunk.com/en_us/product-security/announcements/svd-2022-0301.html) | Splunk | Splunk Enterprise | IMPROPER INPUT VALIDATION (CWE-20)
 2022 | [CVE-2021-4190](https://www.wireshark.org/security/wnpa-sec-2021-22.html) | Wireshark | Wireshark | IMPROPER INPUT VALIDATION (CWE-20)
 2022 | [CVE-2022-0586](https://www.wireshark.org/security/wnpa-sec-2022-01.html) | Wireshark | Wireshark | IMPROPER INPUT VALIDATION (CWE-20)
