@@ -7,7 +7,7 @@ layout: default
 <img class="profile-picture" src="avatar.png">
 
 Hello! I'm Sharon Brizinov, a security researcher. I specialize in vulnerability research and ICS/SCADA security. Most of the vulnerabilities I have found can be found [here](https://sharonbrizinov.com/cves).
-In addition, I've participated in [Pwn2Own 2020](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results) and won DEFCON 27's ICS CTF, earning a [DEFCON black badge](https://www.defcon.org/html/links/dc-black-badge.html).
+In addition, I've participated in Pwn2Own [2020](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results), [2022](https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results) and won DEFCON 27's ICS CTF, earning a [DEFCON black badge](https://www.defcon.org/html/links/dc-black-badge.html).
 
 
 Besides security research, I also like to develop mobile applications and games. You can find most of my projects on [GitHub](https://github.com/sharonbrizinov). 
@@ -30,13 +30,14 @@ Besides security research, I also like to develop mobile applications and games.
 * 2021 - [Presentation] [HackInParis 2021 - Pwning Industrial Remote Access Clients](https://www.youtube.com/watch?v=rNHshToPt2Y&ab_channel=HackinParis)
 * 2022 - [White Paper]  [Exploiting URL Parsers](https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf)
 * 2022 - [Presentation] [BlueHat IL 2021 - Pwn'ing Cloud-Based Intercoms at Scale](https://www.youtube.com/watch?v=YTxABU_L2Ok)
-
+* 2022 - [Presentation] [S4x22 2022 - The Race to Native Code Execution in Siemens PLCs](https://www.youtube.com/watch?v=r-dmxU1gEl0)
 ---
 
 ## Projects
 
 Type | Name  | Description
 ------|------|--------
+Security | [Unboxing Busybox - BusyBox Fuzzing](https://github.com/claroty/busybox-fuzzing) | <img class="profile-picture" src="img/busybox.png"> Created a detailed guides & tools to fuzz the popular BusyBox software suite (several Unix utilities in a single executable file).
 Security | [EtherNet/IP & CIP Stack Detector](https://github.com/claroty/enip-stack-detector) | <img class="profile-picture" src="img/etherip_detector.png"> EtherNet/IP & CIP Stack Detector that can help both cyber-security researchers, OT engineers, and asset owners to identify devices that are running a specific EtherNet/IP protocol stack.
 Security | [s3viewer](https://github.com/SharonBrizinov/s3viewer) | <img class="profile-picture" src="img/s3viewer.jpg"> Free tool for security researchers that lists the content of publicly open storages and helps to identify leaking data.
 Security | [Windows Keylogger](https://github.com/SharonBrizinov/SimpleKeylogger) | <img class="profile-picture" src="img/keylogger.png"> Simple Windows keylogger using Windows Hooks. Also supports foreign languages
