@@ -31,6 +31,7 @@ Besides security research, I also like to develop mobile applications and games.
 * 2022 - [White Paper]  [Exploiting URL Parsers](https://claroty.com/wp-content/uploads/2022/01/Exploiting-URL-Parsing-Confusion.pdf)
 * 2022 - [Presentation] [BlueHat IL 2021 - Pwn'ing Cloud-Based Intercoms at Scale](https://www.youtube.com/watch?v=YTxABU_L2Ok)
 * 2022 - [Presentation] [S4x22 2022 - The Race to Native Code Execution in Siemens PLCs](https://www.youtube.com/watch?v=r-dmxU1gEl0)
+
 ---
 
 ## Projects
