@@ -9,6 +9,14 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2022 | [CVE-2022-2788](https://www.cisa.gov/uscert/ics/advisories/icsa-22-228-06) | Emerson | Proficy Machine Edition | PATH TRAVERSAL: \..\FILENAME (CWE-29)
+2022 | [CVE-2022-2789](https://www.cisa.gov/uscert/ics/advisories/icsa-22-228-06) | Emerson | Proficy Machine Edition | INSUFFICIENT VERIFICATION OF DATA AUTHENTICITY (CWE-345)
+2022 | [CVE-2022-2790](https://www.cisa.gov/uscert/ics/advisories/icsa-22-228-06) | Emerson | Proficy Machine Edition | IMPROPER VERIFICATION OF CRYPTOGRAPHIC SIGNATURE (CWE-347)
+2022 | [CVE-2022-2791](https://www.cisa.gov/uscert/ics/advisories/icsa-22-228-06) | Emerson | Proficy Machine Edition | UNRESTRICTED UPLOAD OF FILE WITH DANGEROUS FILE TYPE (CWE-434)
+2022 | [CVE-2022-2792](https://www.cisa.gov/uscert/ics/advisories/icsa-22-228-06) | Emerson | Proficy Machine Edition | IMPROPER ACCESS CONTROL (CWE-284)
+2022 | [CVE-2022-2793](https://www.cisa.gov/uscert/ics/advisories/icsa-22-228-06) | Emerson | Proficy Machine Edition | MISSING SUPPORT FOR INTEGRITY CHECK (CWE-353)
+2022 | [CVE-2022-29864](https://www.zerodayinitiative.com/advisories/ZDI-22-854/) | OPC Foundation | OPC UA .NET Stack | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-30551](https://www.zerodayinitiative.com/advisories/ZDI-22-873/) | OPC Foundation | OPC UA Legacy Java Stack | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
 2022 | [CVE-2021-43933](https://www.cisa.gov/uscert/ics/advisories/icsa-22-109-03) | FANUC Robotics | ROBOGUIDE | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
 2022 | [CVE-2021-43990](https://www.cisa.gov/uscert/ics/advisories/icsa-22-109-03) | FANUC Robotics | ROBOGUIDE | IMPROPER RESTRICTION OF XML EXTERNAL ENTITY REFERENCE (CWE-611)
 2022 | [CVE-2021-43988](https://www.cisa.gov/uscert/ics/advisories/icsa-22-109-03) | FANUC Robotics | ROBOGUIDE | IMPROPER PATH TRAVERSAL CWE 22
