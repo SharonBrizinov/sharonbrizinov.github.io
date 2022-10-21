@@ -9,6 +9,20 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2022 | [CVE-2022-25888](https://security.snyk.io/vuln/SNYK-RUST-OPCUA-2988751) | OPC UA Rust  | OPC UA Rust Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-25903](https://security.snyk.io/vuln/SNYK-RUST-OPCUA-2988750) | OPC UA Rust  | OPC UA Rust Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-24381](https://security.snyk.io/vuln/SNYK-UNMANAGED-ASNEGOPCUASTACK-2988735) | ASNeG OpcUaStack | ASNeG OPC UA C/C++ Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-25302](https://security.snyk.io/vuln/SNYK-UNMANAGED-ASNEGOPCUASTACK-2988732) | ASNeG OpcUaStack | ASNeG OPC UA C/C++ Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-25304](https://security.snyk.io/vuln/SNYK-PYTHON-OPCUA-2988730) | opcua-asyncio | opcua-asyncio OPC UA Python Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-25761](https://security.snyk.io/vuln/SNYK-UNMANAGED-OPEN62541OPEN62541-2988719) | open62541 | open62541 OPC UA C/C++ Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-24375](https://security.snyk.io/vuln/SNYK-JS-NODEOPCUA-2988725) | node-opcua | node-opcua OPC UA NodeJS Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-25231](https://security.snyk.io/vuln/SNYK-JS-NODEOPCUA-2988724) | node-opcua | node-opcua OPC UA NodeJS Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-21208](https://security.snyk.io/vuln/SNYK-JS-NODEOPCUA-2988723) | node-opcua | node-opcua OPC UA NodeJS Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-25897](https://github.com/eclipse/milo/security/advisories/GHSA-fph9-f5r6-vhqf) | Eclipse | Milo OPC UA Java Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-24298](https://security.snyk.io/vuln/SNYK-UNMANAGED-FREEOPCUAFREEOPCUA-2988720) | FreeOpcUa | Open Source C++ OPC-UA Server and Client Library | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2022 | [CVE-2022-2848](https://www.cisa.gov/uscert/ics/advisories/icsa-22-242-10) | PTC Kepware | KEPServerEX | HEAP-BASED BUFFER OVERFLOW (CWE-122)
+2022 | [CVE-2022-2825](https://www.cisa.gov/uscert/ics/advisories/icsa-22-242-10) | PTC Kepware | KEPServerEX | STACK-BASED BUFFER OVERFLOW (CWE-121)
+2022 | [CVE-2022-1748](https://www.zerodayinitiative.com/advisories/ZDI-22-1153/) | Softing | OPC UA C++ SDK, Secure Integration Server, edgeConnector and edgeAggregator | NULL POINTER DEREFERENCE (CWE-476)
 2022 | [CVE-2022-2788](https://www.cisa.gov/uscert/ics/advisories/icsa-22-228-06) | Emerson | Proficy Machine Edition | PATH TRAVERSAL: \..\FILENAME (CWE-29)
 2022 | [CVE-2022-2789](https://www.cisa.gov/uscert/ics/advisories/icsa-22-228-06) | Emerson | Proficy Machine Edition | INSUFFICIENT VERIFICATION OF DATA AUTHENTICITY (CWE-345)
 2022 | [CVE-2022-2790](https://www.cisa.gov/uscert/ics/advisories/icsa-22-228-06) | Emerson | Proficy Machine Edition | IMPROPER VERIFICATION OF CRYPTOGRAPHIC SIGNATURE (CWE-347)

@@ -33,6 +33,7 @@ Besides security research, I also like to develop mobile applications and games.
 * 2022 - [Presentation] [S4x22 2022 - The Race to Native Code Execution in Siemens PLCs](https://www.youtube.com/watch?v=r-dmxU1gEl0)
 * 2022 - [Presentation] [SANS ICS 2022 - Hunting EtherNet/IP Protocol Stacks](https://www.youtube.com/watch?v=0jftEYDo0ao)
 * 2022 - [Research Paper] [Evil PLC Attack: Weapnizing PLCs](https://claroty-statamic-assets.nyc3.digitaloceanspaces.com/resource-downloads/team82-evil-plc-attack-research-paper.pdf)
+* 2022 - [Presentation] [DEFCON 30 - Evil PLC Attack](https://www.youtube.com/watch?v=pNNOUiR8EQo)
 
 ---
 
