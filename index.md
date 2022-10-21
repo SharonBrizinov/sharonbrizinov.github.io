@@ -41,6 +41,8 @@ Besides security research, I also like to develop mobile applications and games.
 
 Type | Name  | Description
 ------|------|--------
+Misc | [Slack Anti-Delete](https://github.com/SharonBrizinov/slack-anti-delete) [Slack Sounds](https://github.com/SharonBrizinov/slack-sounds)| <img class="profile-picture" src="img/slack.png"> Some research I did on Slack - I patched my Slack client to keep messages that others delete, simple tool to customize Slack sound notifications.
+Dev | [DumpRequests](https://github.com/SharonBrizinov/DumpRequests) | <img class="profile-picture" src="img/requests.png"> Simple stupid class for globaly auto patching the entire python requests library to dump all requests and responses, for debug purposes.
 Security | [Unboxing Busybox - BusyBox Fuzzing](https://github.com/claroty/busybox-fuzzing) | <img class="profile-picture" src="img/busybox.png"> Created a detailed guides & tools to fuzz the popular BusyBox software suite (several Unix utilities in a single executable file).
 Security | [EtherNet/IP & CIP Stack Detector](https://github.com/claroty/enip-stack-detector) | <img class="profile-picture" src="img/etherip_detector.png"> EtherNet/IP & CIP Stack Detector that can help both cyber-security researchers, OT engineers, and asset owners to identify devices that are running a specific EtherNet/IP protocol stack.
 Security | [s3viewer](https://github.com/SharonBrizinov/s3viewer) | <img class="profile-picture" src="img/s3viewer.jpg"> Free tool for security researchers that lists the content of publicly open storages and helps to identify leaking data.
