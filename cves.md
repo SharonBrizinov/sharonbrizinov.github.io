@@ -9,7 +9,6 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
-
 2023 | [CVE-2023-32787](https://files.opcfoundation.org/SecurityBulletins/OPC%20Foundation%20Security%20Bulletin%20CVE-2023-32787.pdf) | OPC Foundation  | OPC UA Legacy Java Stack | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
 2023 | [ZDI-23-660](https://www.synology.com/en-global/security/advisory/Synology_SA_22_23) | Synology | Disk Station Manager | IMPROPER INPUT VALIDATION (CWE-22)
 2023 | [ZDI-23-659](https://www.synology.com/en-global/security/advisory/Synology_SA_22_23) | Synology | Disk Station Manager | IMPROPER INPUT VALIDATION (CWE-22)
