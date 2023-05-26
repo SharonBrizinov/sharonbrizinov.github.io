@@ -9,6 +9,19 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+
+2023 | [CVE-2023-32787](https://files.opcfoundation.org/SecurityBulletins/OPC%20Foundation%20Security%20Bulletin%20CVE-2023-32787.pdf) | OPC Foundation  | OPC UA Legacy Java Stack | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
+2023 | [ZDI-23-660](https://www.synology.com/en-global/security/advisory/Synology_SA_22_23) | Synology | Disk Station Manager | IMPROPER INPUT VALIDATION (CWE-22)
+2023 | [ZDI-23-659](https://www.synology.com/en-global/security/advisory/Synology_SA_22_23) | Synology | Disk Station Manager | IMPROPER INPUT VALIDATION (CWE-22)
+2023 | [ZDI-23-658](https://www.synology.com/en-global/security/advisory/Synology_SA_22_23) | Synology | Disk Station Manager | IMPROPER INPUT VALIDATION (CWE-22)
+2023 | [CVE-2023-27321](https://files.opcfoundation.org/SecurityBulletins/OPC%20Foundation%20Security%20Bulletin%20CVE-2023-31048.pdf) | OPC Foundation  | OPC UA .NET Stack | IMPROPERLY CONTROLLED SEQUENTIAL MEMORY ALLOCATION (CWE-1325)
+2023 | [CVE-2023-31048](https://files.opcfoundation.org/SecurityBulletins/OPC%20Foundation%20Security%20Bulletin%20CVE-2023-31048.pdf) | OPC Foundation  | OPC UA .NET Stack | GENERATION OF ERROR MESSAGE CONTAINING SENSITIVE INFORMATION (CWE-209)
+2023 | [CVE-2023-27357](https://kb.netgear.com/000065619/Security-Advisory-for-Multiple-Vulnerabilities-on-the-RAX30-PSV-2022-0348) | Netgear  | Nighthawk RAX30 | IMPROPER INPUT VALIDATION (CWE-22)
+2023 | [CVE-2023-27367](https://kb.netgear.com/000065619/Security-Advisory-for-Multiple-Vulnerabilities-on-the-RAX30-PSV-2022-0348) | Netgear  | Nighthawk RAX30 | IMPROPER INPUT VALIDATION (CWE-22)
+2023 | [CVE-2023-27368](https://kb.netgear.com/000065619/Security-Advisory-for-Multiple-Vulnerabilities-on-the-RAX30-PSV-2022-0348) | Netgear  | Nighthawk RAX30 | IMPROPER INPUT VALIDATION (CWE-22)
+2023 | [CVE-2023-27369](https://kb.netgear.com/000065619/Security-Advisory-for-Multiple-Vulnerabilities-on-the-RAX30-PSV-2022-0348) | Netgear  | Nighthawk RAX30 | IMPROPER INPUT VALIDATION (CWE-22)
+2023 | [CVE-2023-27370](https://kb.netgear.com/000065619/Security-Advisory-for-Multiple-Vulnerabilities-on-the-RAX30-PSV-2022-0348) | Netgear  | Nighthawk RAX30 | IMPROPER INPUT VALIDATION (CWE-22)
+2023 | [CVE-2023-1552](https://www.ge.com/content/dam/cyber_security/global/en_US/pdfs/2023-03-23_ToolboxST_Deserialization_of_Untrusted_Configuration_Data.pdf) | GE Gas Power  | ToolBoxST | DESERIALIZATION OF UNTRUSTED DATA (CWE-502)
 2022 | [CVE-2022-25888](https://security.snyk.io/vuln/SNYK-RUST-OPCUA-2988751) | OPC UA Rust  | OPC UA Rust Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
 2022 | [CVE-2022-25903](https://security.snyk.io/vuln/SNYK-RUST-OPCUA-2988750) | OPC UA Rust  | OPC UA Rust Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
 2022 | [CVE-2022-24381](https://security.snyk.io/vuln/SNYK-UNMANAGED-ASNEGOPCUASTACK-2988735) | ASNeG OpcUaStack | ASNeG OPC UA C/C++ Implementation | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
