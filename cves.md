@@ -9,6 +9,44 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2023 | [CVE-2022-46141](https://cert-portal.siemens.com/productcert/html/ssa-887801.html) | Siemens | TIA Portal | CWE-316
+2023 | [CVE-2023-41738](https://www.synology.com/en-global/security/advisory/Synology_SA_23_10) | Synology | RT6600ax | CWE-20
+2023 | [CVE-2023-41739](https://www.synology.com/en-global/security/advisory/Synology_SA_23_10) | Synology | RT6600ax | CWE-20
+2023 | [CVE-2023-41740](https://www.synology.com/en-global/security/advisory/Synology_SA_23_10) | Synology | RT6600ax | CWE-20
+2023 | [CVE-2023-41741](https://www.synology.com/en-global/security/advisory/Synology_SA_23_10) | Synology | RT6600ax | CWE-20
+2023 | [CVE-2023-39481](https://www.zerodayinitiative.com/advisories/ZDI-23-1060) | Softing | Secure Integration Server | CWE-367
+2023 | [CVE-2023-39480](https://www.zerodayinitiative.com/advisories/ZDI-23-1061) | Softing | Secure Integration Server | CWE-20
+2023 | [CVE-2023-39479](https://www.zerodayinitiative.com/advisories/ZDI-23-1062) | Softing | Secure Integration Server | CWE-20
+2023 | [CVE-2023-39478](https://www.zerodayinitiative.com/advisories/ZDI-23-1063) | Softing | Secure Integration Server | CWE-668
+2023 | [CVE-2023-38125](https://www.zerodayinitiative.com/advisories/ZDI-23-1059) | Softing | edgeAggregator Client | CWE-942
+2023 | [CVE-2023-38126](https://www.zerodayinitiative.com/advisories/ZDI-23-1058) | Softing | edgeAggregator Client | CWE-22
+2023 | [CVE-2023-27335](https://www.zerodayinitiative.com/advisories/ZDI-23-1057) | Softing | edgeAggregator Client | CWE-79
+2023 | [CVE-2023-39477](https://www.zerodayinitiative.com/advisories/ZDI-23-1050/) | Inductive Automation | Ignition | CWE-1325
+2023 | [CVE-2023-39461](https://www.zerodayinitiative.com/advisories/ZDI-23-1029/) | Triangle Microworks | SCADA Data Gateway | CWE-117
+2023 | [CVE-2023-39460](https://www.zerodayinitiative.com/advisories/ZDI-23-1028/) | Triangle Microworks | SCADA Data Gateway | CWE-22
+2023 | [CVE-2023-39462](https://www.zerodayinitiative.com/advisories/ZDI-23-1030/) | Triangle Microworks | SCADA Data Gateway | CWE-434
+2023 | [CVE-2023-39457](https://www.zerodayinitiative.com/advisories/ZDI-23-1025/) | Triangle Microworks | SCADA Data Gateway | CWE-287
+2023 | [CVE-2023-3825](https://www.cisa.gov/news-events/ics-advisories/icsa-23-208-02) | PTC Kepware | KEPServerEX | CWE-400
+2023 | [CVE-2023-27334](https://www.zerodayinitiative.com/advisories/ZDI-23-1054/) | Softing | OPC UA C++ SDK | CWE-400
+2023 | [CVE-2023-29378](https://www.zerodayinitiative.com/advisories/ZDI-23-1055/) | Softing | OPC UA C++ SDK | CWE-23
+2023 | [CVE-2023-29377](https://www.zerodayinitiative.com/advisories/ZDI-23-1055/) | Softing | OPC UA C++ SDK | CWE-22
+2023 | [CVE-2023-2639](https://www.cisa.gov/news-events/ics-advisories/icsa-23-164-02) | Rockwell Automation | FactoryTalk Services Platform | CWE-346
+2023 | [CVE-2023-2638](https://www.cisa.gov/news-events/ics-advisories/icsa-23-164-02) | Rockwell Automation | FactoryTalk Services Platform | CWE-287
+2023 | [CVE-2023-2637](https://www.cisa.gov/news-events/ics-advisories/icsa-23-164-02) | Rockwell Automation | FactoryTalk Services Platform | CWE-321
+2023 | [CVE-2023-2729](https://www.synology.com/en-global/security/advisory/Synology_SA_23_07) | Synology | Disk Station Manager | CWE-330
+2023 | [CVE-2022-36327](https://www.westerndigital.com/support/product-security/wdc-23006-my-cloud-firmware-version-5-26-202) | Western Digital | MyCloud PR4100 | CWE-288
+2023 | [CVE-2022-29841](https://www.zerodayinitiative.com/advisories/ZDI-23-849/) | Western Digital | MyCloud PR4100 | CWE-288
+2023 | [CVE-2022-36328](https://www.zerodayinitiative.com/advisories/ZDI-23-848/) | Western Digital | MyCloud PR4100 | CWE-288
+2023 | [CVE-2022-36331](https://www.zerodayinitiative.com/advisories/ZDI-23-847/) | Western Digital | MyCloud PR4100 | CWE-288
+2023 | [CVE-2023-33379](https://nvd.nist.gov/vuln/detail/CVE-2023-33379) | ConnectedIO | ER2000 | CWE-732
+2023 | [CVE-2023-33378](https://nvd.nist.gov/vuln/detail/CVE-2023-33378) | ConnectedIO | ER2000 | CWE-88
+2023 | [CVE-2023-33377](https://nvd.nist.gov/vuln/detail/CVE-2023-33377) | ConnectedIO | ER2000 | CWE-78
+2023 | [CVE-2023-33376](https://nvd.nist.gov/vuln/detail/CVE-2023-33376) | ConnectedIO | ER2000 | CWE-88
+2023 | [CVE-2023-33375](https://nvd.nist.gov/vuln/detail/CVE-2023-33375) | ConnectedIO | ER2000 | CWE-121
+2023 | [CVE-2023-33374](https://nvd.nist.gov/vuln/detail/CVE-2023-33374) | ConnectedIO | ER2000 | CWE-749
+2023 | [CVE-2023-33373](https://nvd.nist.gov/vuln/detail/CVE-2023-33373) | ConnectedIO | ER2000 | CWE-256
+2023 | [CVE-2023-33372](https://nvd.nist.gov/vuln/detail/CVE-2023-33372) | ConnectedIO | ER2000 | CWE-798
+2023 | [CVE-2023-32172](https://www.zerodayinitiative.com/advisories/ZDI-23-777/) | Unified Automation | UaGateway OPC UA Server | CWE-476
 2023 | [CVE-2023-32787](https://files.opcfoundation.org/SecurityBulletins/OPC%20Foundation%20Security%20Bulletin%20CVE-2023-32787.pdf) | OPC Foundation  | OPC UA Legacy Java Stack | UNCONTROLLED RESOURCE CONSUMPTION (CWE-400)
 2023 | [ZDI-23-660](https://www.synology.com/en-global/security/advisory/Synology_SA_22_23) | Synology | Disk Station Manager | IMPROPER INPUT VALIDATION (CWE-22)
 2023 | [ZDI-23-659](https://www.synology.com/en-global/security/advisory/Synology_SA_22_23) | Synology | Disk Station Manager | IMPROPER INPUT VALIDATION (CWE-22)

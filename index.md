@@ -6,16 +6,19 @@ layout: default
 
 <img class="profile-picture" src="avatar.png">
 
-Hello! I'm Sharon Brizinov, a security researcher. I specialize in vulnerability research and OT/IoT security. Most of the vulnerabilities I have found can be found [here](https://sharonbrizinov.com/cves). I've present my research in various security conferences including DEFCON, HITCON, BlueHatIL, SANS, S4, HackInParis, and others. 
+Hello! I'm Sharon Brizinov, a security researcher. I specialize in vulnerability research and OT/IoT security. Most of the vulnerabilities I have found can be found [here](https://sharonbrizinov.com/cves). I've present my research in various security conferences including BlackHat, DEFCON, HITCON, BlueHatIL, SANS, S4, HackInParis, and others. 
 
 
-I also participated in Pwn2Own [ICS 2020](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results), [ICS 2022](https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results), [IoT 2022](https://www.zerodayinitiative.com/blog/2022/12/5/pwn2own-toronto-2022-day-one-results),[ICS 2023](https://www.zerodayinitiative.com/blog/2023/2/16/pwn2own-miami-2023-day-three-results), got SANS Institue ["Researcher of the Year" Award](https://twitter.com/SANSInstitute/status/1605205777093984260) and won DEFCON 27's ICS CTF, earning a [DEFCON black badge](https://www.defcon.org/html/links/dc-black-badge.html).
+I also participated in Pwn2Own five times including [ICS 2020](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results), [ICS 2022](https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results), [IoT 2022](https://www.zerodayinitiative.com/blog/2022/12/5/pwn2own-toronto-2022-day-one-results),[ICS 2023](https://www.zerodayinitiative.com/blog/2023/2/16/pwn2own-miami-2023-day-three-results), [IoT 2023](https://www.zerodayinitiative.com/blog/2023/10/26/pwn2own-toronto-2023-day-three-results), got SANS Institue ["Researcher of the Year" Award](https://twitter.com/SANSInstitute/status/1605205777093984260) and won DEFCON 27's ICS CTF, earning a [DEFCON black badge](https://www.defcon.org/html/links/dc-black-badge.html).
 
 
 Besides security research, I also like to develop mobile applications and games. You can find most of my projects on [GitHub](https://github.com/sharonbrizinov). 
 
 ## Selected Writeups, competitions, and presentations
 
+* 2023 - [Writeup] [Synology NAS DSM Account Takeover: When Random is not Secure](https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure)
+* 2023 - [Presentation] [DEFCON 31](https://www.youtube.com/watch?v=de6kpQVvFL0&ab_channel=DEFCONConference) & [BlackHat](https://www.youtube.com/watch?v=Setiy_a1Ch0&ab_channel=BlackHat) - Exploiting OPC UA - Practical Attacks Against OPC UA Architectures 
+* 2023 - [Presentation] [DEFCON 31](https://www.youtube.com/watch?v=pY7S5CUqPxI&ab_channel=DEFCONConference) & [BlackHat](https://www.youtube.com/watch?v=8VK582uC55k&ab_channel=BlackHat) - A Pain in the NAS Exploiting Cloud Connectivity to PWN your NAS
 * 2023 - [Writeup] [Multi-Part Series on OPC UA Security Deep Dive](https://claroty.com/team82/research/opc-ua-deep-dive-a-complete-guide-to-the-opc-ua-attack-surface)
 * 2022 - [Presentation] [Nexsus 22 - Live Hacking - Patient Monitor](https://www.youtube.com/watch?v=lHZtDS7jPbo)
 * 2022 - [Presentation] [OTCEP 22 - Hiding Code in PLCs](https://www.youtube.com/watch?v=yx39_2GCR_I)
@@ -36,16 +39,15 @@ Besides security research, I also like to develop mobile applications and games.
 * 2020 - [Research Paper]  [Exploring The OPC Attack Surface](https://www.claroty.com/wp-content/uploads/2021/02/FINAL_Claroty_OPC_Research_Paper.pdf)
 * 2020 - [Writeup]      [ZDI - RCE on Schneider Electric Ecostruxure software](https://www.thezdi.com/blog/2020/9/9/performing-sql-backflips-to-achieve-code-execution-on-schneider-electrics-ecostruxure-operator-terminal-expert-at-pwn2own-miami-2020)
 * 2020 - [Research Paper]  [Exploiting WIBU CodeMeter to attack ICS networks](https://www.claroty.com/2020/09/08/blog-research-wibu-codemeter-vulnerabilities/)
-* 2020 - [Competition]  [Pwn2Own 2020 - ICS Miami](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results)
-* 2019 - [Presentation] [DEFCON 27 - Magical Change-IP Packets In the Wild](https://www.youtube.com/watch?v=lggrDCYsVpw&ab_channel=DEFCONConference)
-* 2019 - [Competition]  [DEFCON 27 - ICS CTF](https://www.defcon.org/html/links/dc-black-badge.html)
-* 2019 - [Competition]  [S4x19 - ICS CTF](https://s4xevents.com/past-events-2/s4x19/)
+
 ---
 
 ## Projects
 
 Type | Name  | Description
 ------|------|--------
+Misc | [BrachotPlus](https://brachotplus.com)| <img class="profile-picture" src="img/brachotplus.png"> Free, online AI generated greeting cards, mostly for Jewish holidays.
+Security | [ScanMySMS](https://ScanMySms.com)| <img class="profile-picture" src="img/scanmysms.png"> Detecting smishing (SMS-Phising). Enter SMS content with a potentially malicious URL and let us verify it for you.
 Networks | [Ultimate Pcap](https://wiki.wireshark.org/uploads/26c41b5ec1d89343e2979b73ec374bc9/ultimate_wireshark_protocols_pcap_220213.pcap.zip)| <img class="profile-picture" src="img/pcap.jpg"> Capture file containing a wide variety of protocols, useful for stress-testing and fuzzing. Covers almost all of Wireshark protocol dissectors with great code coverage.
 Misc | [secfeed](https://github.com/SharonBrizinov/secfeed)| <img class="profile-picture" src="img/secfeed.png"> Stupid simple solution to keep track of various cyber security related sources including research blogs, CVEs, advisories, etc. The script will query a list of websites and extract urls matching to specific regexs. If there are new sources (e.g. new CVE was released), a notification will be sent to Slack with the relevant link.
 Misc | [Slack Anti-Delete](https://github.com/SharonBrizinov/slack-anti-delete)  &  [Slack Sounds](https://github.com/SharonBrizinov/slack-sounds)| <img class="profile-picture" src="img/slack.png"> Some research I did on Slack - I patched my Slack client to keep messages that others delete, simple tool to customize Slack sound notifications.
