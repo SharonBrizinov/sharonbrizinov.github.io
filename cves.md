@@ -9,6 +9,8 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2024 | [CVE-2024-3746](https://www.cisa.gov/news-events/ics-advisories/icsa-24-107-01) | Measuresoft | ScadaPro | CWE-284
+2024 | [CVE-2024-21473](https://docs.qualcomm.com/product/publicresources/securitybulletin/april-2024-bulletin.html) | Qualcomm | WiFi SON | CWE-20
 2023 | [CVE-2022-46141](https://cert-portal.siemens.com/productcert/html/ssa-887801.html) | Siemens | TIA Portal | CWE-316
 2023 | [CVE-2023-41738](https://www.synology.com/en-global/security/advisory/Synology_SA_23_10) | Synology | RT6600ax | CWE-20
 2023 | [CVE-2023-41739](https://www.synology.com/en-global/security/advisory/Synology_SA_23_10) | Synology | RT6600ax | CWE-20

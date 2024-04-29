@@ -6,13 +6,16 @@ layout: default
 
 <img class="profile-picture" src="avatar.png">
 
-Hello! I'm Sharon Brizinov, a security researcher. I specialize in vulnerability research and OT/IoT security. Most of the vulnerabilities I have found can be found [here](https://sharonbrizinov.com/cves). I've present my research in various security conferences including BlackHat, DEFCON, HITCON, BlueHatIL, SANS, S4, HackInParis, and others. 
+Hello! I'm Sharon Brizinov, a security researcher with more than [200 CVEs](https://sharonbrizinov.com/cves). I specialize in vulnerability research and OT/IoT security. I've presented my research in many conferences including DEFCON, BlackHat, BlueHatIL, HITCON, SANS, and more. I also contribute code to open-source projects, see my [GitHub page](https://github.com/sharonbrizinov).
 
+I also participated in Pwn2Own five times including [ICS 2020](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results), [ICS 2022](https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results), [IoT 2022](https://www.zerodayinitiative.com/blog/2022/12/5/pwn2own-toronto-2022-day-one-results),[ICS 2023](https://www.zerodayinitiative.com/blog/2023/2/16/pwn2own-miami-2023-day-three-results), [IoT 2023](https://www.zerodayinitiative.com/blog/2023/10/26/pwn2own-toronto-2023-day-three-results), got SANS Institue [Researcher-of-the-Year Award](https://twitter.com/SANSInstitute/status/1605205777093984260) and won DEFCON 27's ICS CTF, earning a [DEFCON black badge](https://www.defcon.org/html/links/dc-black-badge.html).
 
-I also participated in Pwn2Own five times including [ICS 2020](https://www.zerodayinitiative.com/blog/2020/1/21/pwn2own-miami-2020-schedule-and-live-results), [ICS 2022](https://www.zerodayinitiative.com/blog/2022/4/14/pwn2own-miami-2022-results), [IoT 2022](https://www.zerodayinitiative.com/blog/2022/12/5/pwn2own-toronto-2022-day-one-results),[ICS 2023](https://www.zerodayinitiative.com/blog/2023/2/16/pwn2own-miami-2023-day-three-results), [IoT 2023](https://www.zerodayinitiative.com/blog/2023/10/26/pwn2own-toronto-2023-day-three-results), got SANS Institue ["Researcher of the Year" Award](https://twitter.com/SANSInstitute/status/1605205777093984260) and won DEFCON 27's ICS CTF, earning a [DEFCON black badge](https://www.defcon.org/html/links/dc-black-badge.html).
+I found vulnerabilities in major companies and products such as:
+* ICS: Siemens, GE, Rockwell Automation, ABB, Emerson, Honeywell, Schneider Electric, and others.
+* IoT: Qualcomm, Synology, Western Digital, Netgear, TP-Link, and others.
+* Misc: Wireshark, Splunk, BusyBox, and others.
+* BugBounty: Meta, AWS, Yahoo, Adobe, Shopifi, and others.
 
-
-Besides security research, I also like to develop mobile applications and games. You can find most of my projects on [GitHub](https://github.com/sharonbrizinov). 
 
 ## Selected Writeups, competitions, and presentations
 
