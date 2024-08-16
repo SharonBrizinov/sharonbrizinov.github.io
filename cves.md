@@ -9,6 +9,16 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2024 | [CVE-2024-6098](https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-11) | PTC | Kepware Server | CWE-770
+2024 | [CVE-2024-6242](https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1682.html) | Rockwell Automation | ControlLogix PLC | CWE-420
+2024 | [CVE-2024-38434](https://www.gov.il/en/departments/dynamiccollectors/cve_advisories_listing?skip=0) | Unitronics | Vision PLC | CWE-20
+2024 | [CVE-2024-38435](https://www.gov.il/en/departments/dynamiccollectors/cve_advisories_listing?skip=0) | Unitronics | Vision PLC | CWE-20
+2024 | [CVE-2024-39348](https://www.synology.com/en-us/security/advisory/Synology_SA_23_16) | Synology | Synology Router Manager (SRM) | CWE-20
+2024 | [CVE-2024-5557](https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2024-163-04&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2024-163-04.pdf) | Schneider Electric | SpaceLogic AS-P | CWE-20
+2024 | [CVE-2024-5558](https://download.schneider-electric.com/files?p_Doc_Ref=SEVD-2024-163-04&p_enDocType=Security+and+Safety+Notice&p_File_Name=SEVD-2024-163-04.pdf) | Schneider Electric | SpaceLogic AS-P | CWE-20
+2024 | [CVE-2024-5242](https://www.zerodayinitiative.com/advisories/ZDI-24-501/) | TP-Link | Omada ER605 Router | CWE-20
+2024 | [CVE-2024-5243](https://www.zerodayinitiative.com/advisories/ZDI-24-502/) | TP-Link | Omada ER605 Router | CWE-20
+2024 | [CVE-2024-5244](https://www.zerodayinitiative.com/advisories/ZDI-24-503/) | TP-Link | Omada ER605 Router | CWE-20
 2024 | [CVE-2024-3746](https://www.cisa.gov/news-events/ics-advisories/icsa-24-107-01) | Measuresoft | ScadaPro | CWE-284
 2024 | [CVE-2024-21473](https://docs.qualcomm.com/product/publicresources/securitybulletin/april-2024-bulletin.html) | Qualcomm | WiFi SON | CWE-20
 2023 | [CVE-2022-46141](https://cert-portal.siemens.com/productcert/html/ssa-887801.html) | Siemens | TIA Portal | CWE-316

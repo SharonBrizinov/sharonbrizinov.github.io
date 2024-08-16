@@ -14,11 +14,16 @@ I found vulnerabilities in major companies and products such as:
 * ICS: Siemens, GE, Rockwell Automation, ABB, Emerson, Honeywell, Schneider Electric, and others.
 * IoT: Qualcomm, Synology, Western Digital, Netgear, TP-Link, and others.
 * Misc: Wireshark, Splunk, BusyBox, and others.
-* BugBounty: Meta, AWS, Yahoo, Adobe, Shopifi, and others.
+* BugBounty: Meta, AWS, Microsoft, Yahoo, Adobe, Shopify, and others.
 
 
 ## Selected Writeups, competitions, and presentations
 
+* 2024 - [Writeup][Bypassing Rockwell Logix Controllers Trusted Slot](https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection)
+* 2024 - [Presentation][BSidesTLV 2024 - Phishing, Smishing, and the birth of ScanMySMS](https://www.youtube.com/watch?v=EhNsXXbDp3U)
+* 2024 - [Writeup][Pwn2Own: Pivoting from WAN to LAN Part 2 - Synology BC500 IP Camera](https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera)
+* 2024 - [Writeup][Pwn2Own: Pivoting from WAN to LAN Part 1 - TP-Link ER605 router](https://claroty.com/team82/research/pwn2own-wan-to-lan-exploit-showcase)
+* 2024 - [Writeup][Unpacking the Blackjack Group Fuxnet Malware](https://claroty.com/team82/research/unpacking-the-blackjack-groups-fuxnet-malware)
 * 2023 - [Writeup] [Synology NAS DSM Account Takeover: When Random is not Secure](https://claroty.com/team82/research/synology-nas-dsm-account-takeover-when-random-is-not-secure)
 * 2023 - [Presentation] [DEFCON 31](https://www.youtube.com/watch?v=de6kpQVvFL0&ab_channel=DEFCONConference) & [BlackHat](https://www.youtube.com/watch?v=Setiy_a1Ch0&ab_channel=BlackHat) - Exploiting OPC UA - Practical Attacks Against OPC UA Architectures 
 * 2023 - [Presentation] [DEFCON 31](https://www.youtube.com/watch?v=pY7S5CUqPxI&ab_channel=DEFCONConference) & [BlackHat](https://www.youtube.com/watch?v=8VK582uC55k&ab_channel=BlackHat) - A Pain in the NAS Exploiting Cloud Connectivity to PWN your NAS
