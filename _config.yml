@@ -1,9 +1,9 @@
 title: "Sharon Brizinov"
 url: "https://sharonbrizinov.com"
-desc: "I am an Information Security specialist. My interests range from technology to science."
+desc: "Sharon Brizinov is a security researcher specializing in vulnerability research and OT/IoT security, with over 200 CVEs."
 keywords: "security,researcher,developer,programmer"
 author: "Sharon Brizinov"
-baseurl: ""
+baseurl: "https://sharonbrizinov.com"
 
 markdown: kramdown
 

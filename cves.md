@@ -9,6 +9,9 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2025 | [CVE-2025-1001](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-051-01) | Medixant | RadiAnt DICOM Viewer | CWE-295
+2025 | [CVE-2025-1002](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-037-01) | MicroDicom | DICOM Viewer | CWE-295
+2024 | [CVE-2024-7847](https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-01) | Rockwell Automation | RSLogix 500 | CWE-345
 2024 | [CVE-2024-6098](https://www.cisa.gov/news-events/ics-advisories/icsa-24-228-11) | PTC | Kepware Server | CWE-770
 2024 | [CVE-2024-6242](https://www.rockwellautomation.com/en-us/trust-center/security-advisories/advisory.SD1682.html) | Rockwell Automation | ControlLogix PLC | CWE-420
 2024 | [CVE-2024-38434](https://www.gov.il/en/departments/dynamiccollectors/cve_advisories_listing?skip=0) | Unitronics | Vision PLC | CWE-20
