@@ -13,12 +13,12 @@ I also participated in Pwn2Own five times including [ICS 2020](https://www.zerod
 I found vulnerabilities in major companies and products such as:
 * ICS: Siemens, GE, Rockwell Automation, ABB, Emerson, Honeywell, Schneider Electric, and others.
 * IoT: Qualcomm, Synology, Western Digital, Netgear, TP-Link, and others.
-* Misc: Wireshark, Splunk, BusyBox, and others.
-* BugBounty: Meta, AWS, Microsoft, MSRC, Yahoo, Adobe, Shopify, and others.
+* BugBounty: Meta, AWS, Microsoft, MSRC, SAP, Yahoo, Adobe, Shopify, and others.
+* Open-Source: Wireshark, BusyBox, TH, and others.
 
 
 ## Selected Writeups, competitions, and presentations
-
+* 2025 - [Writeup]  [How I Made $64k From Deleted Files - Bug Bounty](https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b)
 * 2024 - [Writeup]  [Bypassing Rockwell Logix Controllers Trusted Slot](https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection)
 * 2024 - [Presentation]  [BSidesTLV 2024 - Phishing, Smishing, and the birth of ScanMySMS](https://www.youtube.com/watch?v=EhNsXXbDp3U)
 * 2024 - [Writeup]  [Pwn2Own: Pivoting from WAN to LAN Part 2 - Synology BC500 IP Camera](https://claroty.com/team82/research/pivoting-from-wan-to-lan-synology-bc500-ip-camera)
