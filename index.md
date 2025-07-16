@@ -18,6 +18,7 @@ I found vulnerabilities in major companies and products such as:
 
 
 ## Selected Writeups, competitions, and presentations
+* 2025 - [Writeup]  [How I Scanned all of GitHub "Oops Commits" for Leaked Secrets - Bug Bounty](https://trufflesecurity.com/blog/guest-post-how-i-scanned-all-of-github-s-oops-commits-for-leaked-secrets)
 * 2025 - [Writeup]  [How I Made $64k From Deleted Files - Bug Bounty](https://medium.com/@sharon.brizinov/how-i-made-64k-from-deleted-files-a-bug-bounty-story-c5bd3a6f5f9b)
 * 2024 - [Writeup]  [Bypassing Rockwell Logix Controllers Trusted Slot](https://claroty.com/team82/research/bypassing-rockwell-automation-logix-controllers-local-chassis-security-protection)
 * 2024 - [Presentation]  [BSidesTLV 2024 - Phishing, Smishing, and the birth of ScanMySMS](https://www.youtube.com/watch?v=EhNsXXbDp3U)

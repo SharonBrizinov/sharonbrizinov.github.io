@@ -9,6 +9,7 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2025 | [CVE-2025-44964](https://claroty.com/team82/disclosure-dashboard/cve-2025-44964) | BlueStacks | BlueStacks Player| CWE-295
 2025 | [CVE-2025-1001](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-051-01) | Medixant | RadiAnt DICOM Viewer | CWE-295
 2025 | [CVE-2025-1002](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-037-01) | MicroDicom | DICOM Viewer | CWE-295
 2024 | [CVE-2024-7847](https://www.cisa.gov/news-events/ics-advisories/icsa-24-263-01) | Rockwell Automation | RSLogix 500 | CWE-345
