@@ -9,6 +9,17 @@ Here is a list of all the vulnerabilities I found over the years.
 
 Year | CVE | Vendor | Product | Vulnerability Type
 -----|-------|--------|-----|-----
+2026 | [CVE-2026-6868](https://www.wireshark.org/security/wnpa-sec-2026-46.html) | Wireshark | Wireshark | CWE-121
+2026 | [CVE-2026-6538](https://www.wireshark.org/security/wnpa-sec-2026-23.html) | Wireshark | Wireshark | CWE-20
+2026 | [CVE-2026-6534](https://www.wireshark.org/security/wnpa-sec-2026-27.html) | Wireshark | Wireshark | CWE-835
+2026 | [CVE-2026-6533](https://www.wireshark.org/security/wnpa-sec-2026-28.html) | Wireshark | Wireshark | CWE-20
+2026 | [CVE-2026-6532](https://www.wireshark.org/security/wnpa-sec-2026-29.html) | Wireshark | Wireshark | CWE-20
+2026 | [CVE-2026-6531](https://www.wireshark.org/security/wnpa-sec-2026-30.html) | Wireshark | Wireshark | CWE-835
+2026 | [CVE-2026-6523](https://www.wireshark.org/security/wnpa-sec-2026-38.html) | Wireshark | Wireshark | CWE-835
+2026 | [CVE-2026-6522](https://www.wireshark.org/security/wnpa-sec-2026-42.html) | Wireshark | Wireshark | CWE-835
+2026 | [CVE-2026-6521](https://www.wireshark.org/security/wnpa-sec-2026-39.html) | Wireshark | Wireshark | CWE-835
+2026 | [CVE-2026-6520](https://www.wireshark.org/security/wnpa-sec-2026-40.html) | Wireshark | Wireshark | CWE-835
+2026 | [CVE-2026-6519](https://www.wireshark.org/security/wnpa-sec-2026-41.html) | Wireshark | Wireshark | CWE-835
 2025 | [CVE-2025-44964](https://claroty.com/team82/disclosure-dashboard/cve-2025-44964) | BlueStacks | BlueStacks Player| CWE-295
 2025 | [CVE-2025-1001](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-051-01) | Medixant | RadiAnt DICOM Viewer | CWE-295
 2025 | [CVE-2025-1002](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-037-01) | MicroDicom | DICOM Viewer | CWE-295
