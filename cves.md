@@ -20,6 +20,7 @@ Year | CVE | Vendor | Product | Vulnerability Type
 2026 | [CVE-2026-6521](https://www.wireshark.org/security/wnpa-sec-2026-39.html) | Wireshark | Wireshark | CWE-835
 2026 | [CVE-2026-6520](https://www.wireshark.org/security/wnpa-sec-2026-40.html) | Wireshark | Wireshark | CWE-835
 2026 | [CVE-2026-6519](https://www.wireshark.org/security/wnpa-sec-2026-41.html) | Wireshark | Wireshark | CWE-835
+2025 | [CVE-2025-36184](https://www.ibm.com/support/pages/node/7257519) | IBM | IBM DB2| CWE-250
 2025 | [CVE-2025-44964](https://claroty.com/team82/disclosure-dashboard/cve-2025-44964) | BlueStacks | BlueStacks Player| CWE-295
 2025 | [CVE-2025-1001](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-051-01) | Medixant | RadiAnt DICOM Viewer | CWE-295
 2025 | [CVE-2025-1002](https://www.cisa.gov/news-events/ics-medical-advisories/icsma-25-037-01) | MicroDicom | DICOM Viewer | CWE-295
